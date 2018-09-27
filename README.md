@@ -82,4 +82,4 @@ For more information, see the
 
 
 Sign up and Log in:
-![signup/login](https://github.com/marshall159/twitter-clone/Signup-login.png "signup/login")
+![signup/login](https://github.com/marshall159/twitter-clone/blob/master/Signup-login.png "signup/login")
